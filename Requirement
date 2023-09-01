@@ -1,0 +1,5 @@
+1.I add Admin login 
+2. I create a controller for Employee register , get, update and delete
+3.Now i want to create employee login, Login with employee code , if the employee code is in the database , the employee login sucessfully,other wise the employee code is not present.
+4.Authourization: Admin Employee register,update ,delete ,get and admin login
+5.Employee view only employee login.
